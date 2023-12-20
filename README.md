@@ -17,7 +17,7 @@
 <div align="center" style="margin:50px; display:flex; justify-content:center; gap:20px">
   <a href="https://linkedin.com/in/nuruzzamanmd2002"><img width="40px" src="./assets/linkedin.png" />
   </a>
-  <a href="https://www.facebook.com/mdnuruzzamannirob1"><img width="40px" src="./assets/facebook.png" />
+  <a href="https://www.facebook.com/nuruzzamanmd2002"><img width="40px" src="./assets/facebook.png" />
   </a>
 </div>
 
