@@ -37,4 +37,11 @@ margin-top="50px" style="margin: 50px;"
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnuruzzamannirob&theme=react&card_width=500_hieght=550" alt="GitHub Streak" /></a>
 </div>
 
-<a href="https://app.daily.dev/mdnuruzzamannirob"><img src="https://api.daily.dev/devcards/504a09f78fef45e286e5848965425f29.png?r=jor" width="400" alt="Md. Nuruzzaman's Dev Card"/></a>
+# Article Reading Statistics
+
+<div align="center" 
+margin-top="50px" style="margin: 50px;"
+>
+ <a href="https://app.daily.dev/mdnuruzzamannirob"><img src="https://api.daily.dev/devcards/504a09f78fef45e286e5848965425f29.png?r=jor" width="400" alt="Md. Nuruzzaman's Dev Card"/></a>
+</div>
+
