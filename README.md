@@ -1,11 +1,6 @@
 ![banner](./assets/banner.png)
 
-<h1 align="center">Md. Nuruzzaman</h1>
-<h3 align="center">Frontend Developer growing into Full-Stack | React · Next.js · TypeScript · Node.js · MongoDB | Open to Frontend & Full Stack Opportunities</h3>
-
-<br/>
-
-## About Me
+## 👨 About Me
 
 I didn't go to university for this. I didn't have a roadmap.
 
