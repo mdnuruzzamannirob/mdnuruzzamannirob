@@ -264,20 +264,6 @@ Now ────── 🌱 Going deeper into full-stack & backend architecture
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdnuruzzamannirob/mdnuruzzamannirob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdnuruzzamannirob/mdnuruzzamannirob/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mdnuruzzamannirob/mdnuruzzamannirob/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 💬 Dev Quote of the Day
 
 <div align="center">
