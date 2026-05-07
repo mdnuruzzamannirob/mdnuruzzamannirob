@@ -6,6 +6,7 @@
 
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=680&lines=🚀+Full+Stack+Developer+%40+Sparktech+Agency;⚡+React+·+Next.js+·+TypeScript+·+Node.js+·+MongoDB;🌱+Self-Taught+%7C+Built+My+Way+In+%7C+Still+Building;🔭+Previously+%40+Bhuiyan+Tourism+—+Live+OTA+Platform;💡+2118%2B+Contributions+%7C+86%2B+Repositories+%7C+Always+Shipping)](https://git.io/typing-svg)
 
 </div>
