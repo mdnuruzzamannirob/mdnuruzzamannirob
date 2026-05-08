@@ -198,38 +198,6 @@ Now ────── 🌱 Going deeper into full-stack & backend architecture
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/diptomahin/nextrade">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=diptomahin&repo=nextrade&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7" />
-</a>
-<a href="https://github.com/mdnuruzzamannirob/invento-wave-client">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mdnuruzzamannirob&repo=invento-wave-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/mdnuruzzamannirob/library-hub-client">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mdnuruzzamannirob&repo=library-hub-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7" />
-</a>
-<a href="https://github.com/mdnuruzzamannirob/brand-shop-client">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mdnuruzzamannirob&repo=brand-shop-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7" />
-</a>
-
-</div>
-
-<br/>
-
-> 💡 **NextTrade** — A team project: live stock & crypto trading platform with real-time charts, portfolios, and buy/sell. Built with Next.js · Node.js · MongoDB · Socket.IO · Firebase.
->
-> 💡 **Invento Wave** — Inventory management system with role-based access, supplier management, sales tracking & Stripe payments.
->
-> 💡 **Library Hub** — Full library management: cataloging, borrowing/returning, overdue fines & member registration.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
