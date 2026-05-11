@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Md.%20Nuruzzaman%20Nirob&fontSize=44&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20JS%20%26%20Node.js%20Ecosystem%20%7C%20Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=14&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="./assets/banner.png" width="100%"/>
 
 <br/>
 
