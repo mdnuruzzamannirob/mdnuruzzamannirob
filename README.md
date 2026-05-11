@@ -36,7 +36,7 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 
 | | |
 |:---|:---|
-| 🏢 **Current Role** | Full Stack Developer @ [Sparktech Agency](https://sparktechagency.com) *(Oct 2025 – Present)* |
+| 🏢 **Current Role** | Full Stack Developer @ [Sparktech Agency](https://sparktech.agency) *(Oct 2025 – Present)* |
 | ✈️ **Previous Role** | Frontend Developer (Remote) @ Bhuiyan Tourism *(Apr 2024 – Sep 2025)* |
 | 🎓 **Education** | BA in English, National University *(2023 – 2027, ongoing)* |
 | 📍 **Location** | Jatrabari, Dhaka, Bangladesh 🇧🇩 |
