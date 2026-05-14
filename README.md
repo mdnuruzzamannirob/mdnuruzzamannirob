@@ -26,7 +26,6 @@
 
 </div>
 
----
 
 ## 🧠 About Me
 
@@ -43,7 +42,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 | 💬 **Open To** | MERN stack collabs · Open source · New opportunities |
 | 📫 **Contact** | dev.mdnuruzzaman@gmail.com |
 
----
 
 ## 🗓️ Career Timeline
 
@@ -57,7 +55,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 | Oct 2025 | 💼 **Joined Sparktech Agency** as Full Stack Developer 🏢 |
 | Now | 🌱 Going deeper into backend architecture, system design & scalable apps |
 
----
 
 ## 🔭 Currently
 
@@ -68,7 +65,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 | Scalable TypeScript + Zod component systems | Data Structures (Programming Hero L2) | Docker & containerization |
 | Client dashboards & e-commerce platforms | Frontend Masters — React internals | Core Web Vitals optimization |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -107,7 +103,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
----
 
 <details>
 <summary><b>💼 Work Experience — Click to expand</b></summary>
@@ -131,7 +126,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 
 </details>
 
----
 
 ## 📊 GitHub Stats
 
@@ -142,7 +136,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 
 </div>
 
----
 
 ## 📋 Detailed Breakdown
 
@@ -159,13 +152,11 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnuruzzamannirob&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area_color=a855f720&area=true&hide_border=true&custom_title=Nirob's%20Contribution%20Graph" width="100%"/>
 
----
 
 ## 🏆 Trophies
 
@@ -175,7 +166,6 @@ Self-taught full-stack developer from Dhaka. No bootcamp, no roadmap — just re
 
 </div>
 
----
 
 ## 🌐 Find Me Everywhere
 
