@@ -26,7 +26,6 @@
 
 </div>
 
-
 ## 🧠 About Me
 
 > *"I didn't wait to feel ready. Waiting has never built anything."*
